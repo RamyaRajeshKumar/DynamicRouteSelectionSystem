@@ -1,5 +1,5 @@
-# FigmaProject
-Dynamic Route Selection System
+# Dynamic Route Selection System
+
 Overview
 Designed and implemented a user-centric Dynamic Route Selection System, utilizing Figma for the end-to-end UX/UI design process. This project aimed to enhance the navigation experience for users in a dynamic environment, providing an intuitive and efficient route selection mechanism.
 
